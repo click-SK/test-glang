@@ -1172,7 +1172,7 @@ footer{
 
 
 
-@media (max-width: 1920px) {
+@media (max-width: 1820px) {
     .top_nav-item{
         display: none;
     }
@@ -1220,7 +1220,7 @@ footer{
     } 
 }
 
-@media (max-width: 1350px) {
+@media (max-width: 1150px) {
 
     .header_bottom_basket p {
         display: none;
