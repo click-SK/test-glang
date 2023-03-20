@@ -1169,6 +1169,12 @@ footer{
 }
 
 
+.arrow_up{
+    position: fixed;
+    left: 36px;
+    bottom: 479px;
+}
+
 
 
 
